@@ -1,0 +1,5 @@
+{
+  "name": "Assistente Drywall e Steel Frame",
+  "description": "Uma landing page com um assistente virtual especializado em responder perguntas sobre drywall e steel frame, utilizando a API Gemini para fornecer respostas precisas e úteis.",
+  "requestFramePermissions": []
+}
